@@ -61,7 +61,6 @@ npm run dev
 
 ### Home Page
 
->preview image
 ![Home](src/assets/screenshots/toggle.png)
 
 ## 📌 Future Improvements
