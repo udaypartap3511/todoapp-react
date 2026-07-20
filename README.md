@@ -26,22 +26,6 @@ A modern and responsive Todo application built with **React** that allows users 
 * Vite
 * Local Storage API
 
----
-
-## 📂 Project Structure
-
-```text
-src/
-│── components/
-│   ├── TodoForm.jsx
-│   ├── TodoItem.jsx
-│
-│── context/
-│   ├── TodoContext.jsx
-│
-│── App.jsx
-│── main.jsx
-```
 
 ---
 
@@ -78,7 +62,7 @@ npm run dev
 ### Home Page
 
 >preview image
-![Home](README-src/assets/screenshots/toggle.png)
+![Home](src/assets/screenshots/toggle.png)
 
 ## 📌 Future Improvements
 
